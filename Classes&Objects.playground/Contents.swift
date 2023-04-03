@@ -21,7 +21,6 @@ obj2ABC.calculate()
 class bike{
     var fName = ""
     var sName = ""
-    
     init(fname : String, sName : String) {
         self.fName = fname
         self.sName = sName
