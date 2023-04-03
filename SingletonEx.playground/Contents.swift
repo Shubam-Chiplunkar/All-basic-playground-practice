@@ -26,8 +26,6 @@ objOfSinglenton.accessGrantFunction(user: "Shubham")
 //obj2OfSingelton.accessGrantFunction(user: "x  ")
 
 
-
-
 class NormalEx{
     init() {
         
